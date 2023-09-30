@@ -1,3 +1,8 @@
+/*
+Exercise 1:
+Declare an array of integers and fill it with numbers from 1 to 10. Then, print the elements in reverse order.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
