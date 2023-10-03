@@ -8,11 +8,15 @@
 Differences:
 LS: 
 1. Works for both sorted & unsorted arrays
-2. Time: O(n)
+2. Time: 
+    Worst Case Scenario : O(n);
+    Best Case Scenario : O(1);
 3. Sequantial Assess
 BS: 
 1. Works only for sorted arrays
-2. Time: O(log n base 2)
+2. Time: 
+    Worst Case Scenario : O(log n base 2);
+    Best Case Scenario  : O(1);
 3. Random Assess
 */
 
